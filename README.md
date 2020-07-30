@@ -47,7 +47,7 @@ python3 Crusher.py <IP> <PORT> <MODE>
 
 * `python3 Crusher.py 10.0.0.1 80 udp`
 * `python3 Crusher.py 10.0.0.1 80 tcp`
-
+> Use Ctrl + Z to avoid long error messages
 
 ## Releases
 * `v1.0`
