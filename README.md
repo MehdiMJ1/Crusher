@@ -6,8 +6,9 @@
 A Powerful DDoS/DoS Tool
 </p>
 
-* [Setup]()
-* [Usage]()
+* [Setup](#Setup)
+* [Usage](#Usage)
+* [Contributing](#Contributing)
 
 **What is a DoS Attack?**
 
@@ -43,7 +44,7 @@ python3 Crusher.py <IP> <PORT> <MODE>
 * `python3 Crusher.py 10.0.0.1 80 tcp`
 
 
-# Contributing
+## Contributing
 * fork the project
 * Create a Branch 
 * add your modifications
