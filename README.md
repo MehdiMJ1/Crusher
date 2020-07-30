@@ -6,6 +6,10 @@
 A Powerful DDoS/DoS Tool
 </p>
 
+[![GitHub license](https://img.shields.io/github/license/Paxv28/Crusher?style=flat-square)](https://github.com/Paxv28/Crusher/blob/master/LICENSE)
+[![GitHub forks](https://img.shields.io/github/forks/Paxv28/Crusher?style=flat-square)](https://github.com/Paxv28/Crusher/network)
+[![GitHub stars](https://img.shields.io/github/stars/Paxv28/Crusher?style=flat-square)](https://github.com/Paxv28/Crusher/stargazers) 
+[![GitHub issues](https://img.shields.io/github/issues/Paxv28/Crusher?style=flat-square)](https://github.com/Paxv28/Crusher/issues)
 * [Setup](#Setup)
 * [Usage](#Usage)
 * [Releases](#Releases)
