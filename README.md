@@ -8,6 +8,7 @@ A Powerful DDoS/DoS Tool
 
 * [Setup](#Setup)
 * [Usage](#Usage)
+* [Releases](#Releases)
 * [Contributing](#Contributing)
 
 **What is a DoS Attack?**
@@ -42,6 +43,11 @@ python3 Crusher.py <IP> <PORT> <MODE>
 
 * `python3 Crusher.py 10.0.0.1 80 udp`
 * `python3 Crusher.py 10.0.0.1 80 tcp`
+
+
+## Releases
+* `v1.0`
+  * Work in Progress
 
 
 ## Contributing
