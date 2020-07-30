@@ -4,7 +4,7 @@ import random # for Packets
 import threading # ?
 
 usage = """
-Crusher - v1.0
+Crusher - v1.1
 Usage: 
        python3 Crusher.py <IP> <PORT> <MODE>
 Modes:
