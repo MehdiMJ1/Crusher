@@ -14,6 +14,7 @@ A Powerful DDoS/DoS Tool
 * [Usage](#Usage)
 * [Releases](#Releases)
 * [Contributing](#Contributing)
+* [License](#License)
 
 **What is a DoS Attack?**
 
