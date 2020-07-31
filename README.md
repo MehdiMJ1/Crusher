@@ -62,3 +62,7 @@ python3 Crusher.py <IP> <PORT> <MODE>
 * fork the project
 * Create a Branch 
 * add your modifications
+
+
+## License
+Crusher is released under the [BSD-3-Clause](https://github.com/Paxv28/Crusher/blob/master/LICENSE)
