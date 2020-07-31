@@ -14,6 +14,7 @@ Modes:
 
 
 Github <https://github.com/Paxv28/Crusher>
+Copyright (c) 2020, Paxv28, All rights reserved.
 """
 try:
     ip = sys.argv[1] # Set Target IP
