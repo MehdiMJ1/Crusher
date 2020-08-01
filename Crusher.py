@@ -8,8 +8,8 @@ Crusher - v1.1
 Usage: 
        python3 Crusher.py <IP> <PORT> <MODE>
 Modes:
-       udp - TCP Mode
-       tcp - UDP Mode
+       udp - UDP Mode
+       tcp - TCP Mode
        http - HTTP Mode
 
 
