@@ -3,7 +3,7 @@
 </h1>
 
 <p align='center'>
-A Powerful DDoS/DoS Tool
+A Powerful, Modern DDoS Attack Tool
 </p>
 
 [![GitHub license](https://img.shields.io/github/license/Paxv28/Crusher?style=flat-square)](https://github.com/Paxv28/Crusher/blob/master/LICENSE)
@@ -43,15 +43,30 @@ $ brew install python
 ## Usage
 
 ```sh
-python3 Crusher.py <IP> <PORT> <MODE>
-```
+usage: Crusher [-h] [-t <IP>] [-p <PORT>] [-th <THREADS>]
+               [-m <TCP/HTTP/UDP>]
 
-* `python3 Crusher.py 10.0.0.1 80 udp`
-* `python3 Crusher.py 10.0.0.1 80 tcp`
-* `python3 Crusher.py 10.0.0.1 80 http`
+A Powerful, Modern DDoS Attack Tool
+
+optional arguments:
+  -h, --help            show this help message and exit      -t <IP>, --target <IP>
+                        Set Target IP
+  -p <PORT>, --port <PORT>
+                        Set Target Port
+  -th <THREADS>, --threads <THREADS>
+                        Set Threads Num | Default 50
+  -m <TCP/HTTP/UDP>, --method <TCP/HTTP/UDP>
+                        Set Attack Method
+
+Copyright (c) 2020, Paxv28, All rights reserved.
+```
 > Use Ctrl + Z to avoid long error messages
 
 ## Releases
+* `v2.0`
+  * rewritten code. 
+  * sys.argv exchanged for argparse
+
 * `v1.1`
   * Added HTTP Mode
 
