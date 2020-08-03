@@ -1,4 +1,3 @@
-from colorama import Fore
 import stuff.banner
 import argparse
 import sys
