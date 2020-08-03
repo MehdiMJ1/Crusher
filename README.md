@@ -49,7 +49,8 @@ usage: Crusher [-h] [-t <IP>] [-p <PORT>] [-th <THREADS>]
 A Powerful, Modern DDoS Attack Tool
 
 optional arguments:
-  -h, --help            show this help message and exit      -t <IP>, --target <IP>
+  -h, --help            show this help message and exit      
+  -t <IP>, --target <IP>
                         Set Target IP
   -p <PORT>, --port <PORT>
                         Set Target Port
