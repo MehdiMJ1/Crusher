@@ -31,7 +31,7 @@ overload systems and prevent some or all legitimate requests from being fulfille
 
 ## Setup
 
-**Requirements**
+**Requirements:**
 `Python 3.8.x`
 
 **Linux**
