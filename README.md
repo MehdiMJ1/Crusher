@@ -11,7 +11,7 @@ A Powerful, Modern DDoS Attack Tool
 [![GitHub stars](https://img.shields.io/github/stars/Paxv28/Crusher?style=flat-square)](https://github.com/Paxv28/Crusher/stargazers) 
 [![GitHub issues](https://img.shields.io/github/issues/Paxv28/Crusher?style=flat-square)](https://github.com/Paxv28/Crusher/issues)
 * [Setup](#Setup)
-* [Testes On](#Tested On)
+* [Testes On](#TestedOn)
 * [Usage](#Usage)
 * [Releases](#Releases)
 * [Contributing](#Contributing)
