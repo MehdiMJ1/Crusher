@@ -39,6 +39,11 @@ $ sudo apt-get install python3
 $ brew install python
 ```
 
+**Windows**
+```sh
+*Windows support not yet available*
+```
+
 
 ## Usage
 
