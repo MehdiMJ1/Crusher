@@ -45,7 +45,7 @@ $ brew install python
 
 **Windows**
 ```sh
-*Windows support not yet available*
+Download Python 3.8 in https://www.python.org/downloads/windows/
 ```
 
 ## Tested
@@ -77,6 +77,9 @@ Copyright (c) 2020, Paxv28, All rights reserved.
 > Use Ctrl + Z to avoid long error messages
 
 ## Releases
+* `v2.1`
+  * correction in code
+
 * `v2.0`
   * rewritten code. 
   * sys.argv exchanged for argparse
