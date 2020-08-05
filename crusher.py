@@ -135,7 +135,7 @@ def http():
         
 if not target or not method or not port:
     parser.print_help()
-    sys.exit()
+    # sys.exit()
 
 else:
     main()
