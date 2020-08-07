@@ -32,7 +32,7 @@ overload systems and prevent some or all legitimate requests from being fulfille
 ## Setup
 
 **Requirements:**
-`Python 3.8.x`
+* `Python 3.8.x`
 
 **Linux**
 ```sh
